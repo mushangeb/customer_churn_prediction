@@ -74,8 +74,6 @@ Customer churn—when customers stop using a service—is a major challenge in t
 - The Random Forest model outperformed Logistic Regression.
 - Features like `ContractType`, `Tenure`, and `TotalCharges` were the most predictive.
 
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository or download the notebook:
