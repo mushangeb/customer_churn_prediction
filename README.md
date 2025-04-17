@@ -43,7 +43,7 @@ This project focuses on predicting customer churn using machine learning techniq
    - Feature importance analysis.
    - Business implications of model outputs.
 
-## 🚀 How to Run
+## 🚀 How to Run the Codes
 
 1. Clone the repository or download the notebook.
 2. Install required packages using `pip install -r requirements.txt` or install manually.
