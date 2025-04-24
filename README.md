@@ -72,6 +72,5 @@ This project focuses on predicting customer churn using machine learning techniq
 5. Nubilla Cedrick Adamu- 673389
 6. Jayson Lidubwi- 672866
 7. Michelle Nanjala 674130
-![image](https://github.com/user-attachments/assets/76a9977a-0a05-4f9e-98ab-874bbd14e715)
 
-For questions or collaborations, feel free to reach out via GitHub or email.
+## THANK YOU
