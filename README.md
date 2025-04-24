@@ -64,6 +64,14 @@ This project focuses on predicting customer churn using machine learning techniq
 - Subscription-based services planning retention strategies.
 - Customer support teams targeting proactive outreach.
 
-## 📬 Contact
+## 📬 Contact//Contributors
+1. Byiringiro Mushange – 673118
+2. Kowsar Abdikadir mohamed -673607
+3. Moses Ogenrwot -673380
+4. Sereya Nchoe - 673707
+5. Nubilla Cedrick Adamu- 673389
+6. Jayson Lidubwi- 672866
+7. Michelle Nanjala 674130
+![image](https://github.com/user-attachments/assets/76a9977a-0a05-4f9e-98ab-874bbd14e715)
 
 For questions or collaborations, feel free to reach out via GitHub or email.
